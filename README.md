@@ -22,16 +22,14 @@ Esse é o repositório da aula de Flexbox do Bootcamp FullStack da Avanade, na q
 
 <h2 id="reason">🎯 Motivo</h2>
 
-O objetivo aqui é desenvolver a Home Page do Instagram, utilizando HTML e CSS, praticar e comprovar minhas habilidades desenvoldidas durante o Bootcamp FullStack da Avanade, que foi proposta através da DigitalinnovationOne.
+O objetivo aqui é desenvolver a Home Page do Instagram, utilizando HTML e CSS, praticar e comprovar minhas habilidades desenvolvidas durante o Bootcamp FullStack da Avanade, que foi proposta através da DigitalinnovationOne.
 
 <h2 id="requirements">⚙ Requisitos</h2>
 
 git clone ou baixar esse repositório.
 Para visualizar o site no ar, acesse:
 
-```bash
-https://ruandias.github.io/recriandoHomePageInstagram/
-```
+<a href="https://ruandias.github.io/recriandoHomePageInstagram/">My Instagram Home Page Clone</a>
 
 <h2 id="technologies">🚀 Tecnologias</h2>
 
